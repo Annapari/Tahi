@@ -2,6 +2,7 @@
 
 Kia ora!
 
-Is this making sense to you?
-[ ] yes
-[ ] no
+Which campus are you in?
+[ ] Auckland
+[ ] Wellington
+[ ] Christchurch
