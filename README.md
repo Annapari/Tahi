@@ -1,4 +1,4 @@
 # Tahi
 
-##Kia ora!
+Kia ora!
 
