@@ -7,3 +7,10 @@ Which campus are you in?
 - [X] Wellington
 - [ ] Christchurch
 Weelington
+
+
+Kia Ora Anna!
+- [ ] Auckland
+- [X] Wellington
+- [ ] Christchurch
+- From Luiggi
